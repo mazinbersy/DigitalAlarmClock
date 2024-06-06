@@ -1,4 +1,4 @@
-# Clock Interface for Basys 3 Board
+# Digital Alarm Clock for Basys 3 Board
 
 This project implements a digital clock with alarm functionality using Verilog and Vivado, targeting the Basys 3 FPGA development board. The ClockInterface module provides clock display, time adjustment, and alarm setting capabilities, making use of the onboard buttons and seven-segment display.
 
